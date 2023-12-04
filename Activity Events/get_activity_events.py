@@ -1,3 +1,5 @@
+# https://learn.microsoft.com/pt-br/rest/api/power-bi/admin/get-activity-events
+
 # Import packages
 import requests
 import adal
